@@ -32,15 +32,39 @@ Details will be explained in the following chapters
 
 ---
 
+## Bookmarks
+
+### Frontend Candidates
+- https://github.com/WorldBrain/Memex
+- https://github.com/WebCrateApp/webcrate
+- https://github.com/raindropio/app
+
+- https://github.com/owncloud/ocis
+
+### Possible Extensions
+- https://github.com/wallabag/wallabag
+
+---
+
 ## Binaries
+
+### Frontend Candidates
+- https://github.com/sonatype/nexus-public
+- https://github.com/owncloud/ocis
+
 
 ---
 
 ## Calendars
 
+- https://github.com/owncloud/ocis
+
+
 ---
 
 ## Contacts
+
+- https://github.com/owncloud/ocis
 
 ---
 
@@ -122,6 +146,8 @@ Details will be explained in the following chapters
 ---
 
 ## ISO
+
+- https://github.com/owncloud/ocis
 
 ---
 
