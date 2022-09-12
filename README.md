@@ -58,6 +58,7 @@ Details will be explained in the following chapters
 ## Calendars
 
 - https://github.com/owncloud/ocis
+- https://github.com/Bedework/bedework
 
 
 ---
@@ -65,6 +66,9 @@ Details will be explained in the following chapters
 ## Contacts
 
 - https://github.com/owncloud/ocis
+- https://github.com/monicahq/monica
+- https://www.etesync.com/
+- 
 
 ---
 
